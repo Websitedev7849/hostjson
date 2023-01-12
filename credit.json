@@ -1,0 +1,47 @@
+
+[
+    {
+       "CREDITQUALITY":"AAA",
+       "ASSETS":"16.7%"
+    },
+    {
+       "CREDITQUALITY":"AA",
+       "ASSETS":"7.3%"
+    },
+    {
+       "CREDITQUALITY":"A",
+       "ASSETS":"5.5%"
+    },
+    {
+       "CREDITQUALITY":"BBB",
+       "ASSETS":"15.0%"
+    },
+    {
+       "CREDITQUALITY":"BB",
+       "ASSETS":"16.1%"
+    },
+    {
+       "CREDITQUALITY":"B",
+       "ASSETS":"13.5%"
+    },
+    {
+       "CREDITQUALITY":"CCC",
+       "ASSETS":"5.8%"
+    },
+    {
+       "CREDITQUALITY":"CC",
+       "ASSETS":"0.7%"
+    },
+    {
+       "CREDITQUALITY":"C",
+       "ASSETS":"0.1%"
+    },
+    {
+       "CREDITQUALITY":"Not Rated",
+       "ASSETS":"14.2%"
+    },
+    {
+       "CREDITQUALITY":"Cash/Equiv",
+       "ASSETS":"5.0%"
+    }
+]

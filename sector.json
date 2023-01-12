@@ -1,0 +1,57 @@
+[
+    {
+       "Sector":"U.S. Govt Related (Treas 1.7%, Agency 0.0%, MBS 0.0%)",
+       "Fund":"1.7 %",
+       "OverweightUnderweight":"-63.4"
+    },
+    {
+       "Sector":"U.S Municipals",
+       "Fund":"2.6 %",
+       "OverweightUnderweight":"1.5"
+    },
+    {
+       "Sector":"Bank Loans",
+       "Fund":"4.2 %",
+       "OverweightUnderweight":"4.2"
+    },
+    {
+       "Sector":"Inv Grade Corp",
+       "Fund":"12.8 %",
+       "OverweightUnderweight":"-14.2"
+    },
+    {
+       "Sector":"Foreign Govt Related",
+       "Fund":"5.4 %",
+       "OverweightUnderweight":"2.7"
+    },
+    {
+       "Sector":"High Yield",
+       "Fund":"15.6 %",
+       "OverweightUnderweight":"15.5"
+    },
+    {
+       "Sector":"Emerging Markets",
+       "Fund":"11.3 %",
+       "OverweightUnderweight":"9.7"
+    },
+    {
+       "Sector":"Commercial MBS",
+       "Fund":"7.9 %",
+       "OverweightUnderweight":"5.7"
+    },
+    {
+       "Sector":"ABS",
+       "Fund":"33.1 %",
+       "OverweightUnderweight":"32.7"
+    },
+    {
+       "Sector":"Other",
+       "Fund":"0.5 %",
+       "OverweightUnderweight":"—"
+    },
+    {
+       "Sector":"Cash/Equiv",
+       "Fund":"5.0 %",
+       "OverweightUnderweight":"—"
+    }
+ ]
