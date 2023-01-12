@@ -1,0 +1,1000 @@
+
+{
+    "chart": {
+      "caption": "",
+      "showBorder": "0",
+      "divlinecolor": "#FFFFFF",
+      "minimiseWrappingInLegend": "0",
+      "legendNumColumns": "2",
+      "yAxisMinValue": "0",
+      "yAxisMaxValue": "15000",
+      "showvalues": "0",
+      "drawToolbarButtons": "0",
+      "lineThickness": "3",
+      "formatNumberScale": "0",
+      "anchorAlpha": "1",
+      "drawCrossLine": "1",
+      "numDivLines": "2",
+      "divIntervalHints": "5000",
+      "rotateLabels": "0",
+      "legenditemfontcolor": "#394047",
+      "legenditemfontsize": "12",
+      "legendshadow": "0",
+      "legendborderalpha": "0",
+      "legendbgalpha": "0",
+      "scrollcolor": "#ffffff",
+      "scrollshowbuttons": "0",
+      "flatscrollbars": "1",
+      "scrollheight": "1",
+      "pixelsperlabel": "10",
+      "pixelsperpoint": "0",
+      "canvasBorderThickness": "0",
+      "canvasbgcolor": "#002247",
+      "showalternatehgridcolor": "0",
+      "showshadow": "1",
+      "canvasBorderColor": "#000000",
+      "showcanvasborder": "1",
+      "bgcolor": "#f5f5f5",
+      "baseFontColor": "#394047",
+      "baseFontSize": "12",
+      "basefont": "Baskerville10Pro,sans-serif",
+      "allowPinMode": "0",
+      "numberprefix": "$",
+      "captionfontsize": "14",
+      "palettecolors": "#6bb5ca,#d3974b,#b17e60,#8e72a9,#aa925f,#0075c2",
+      "labelDisplay": "NONE",
+      "adjustDiv": "0",
+      "showToolTip": "1",
+      "yAxisNameFont": "Baskerville10Pro-bold",
+      "yAxisNameFontSize": "13",
+      "xAxisNameFont": "Baskerville10Pro-bold",
+      "xAxisNameFontSize": "13",
+      "xaxisname": "Date",
+      "yaxisname": "Dollars"
+    },
+    "categories": [
+      {
+        "category": [
+          {
+            "label": "3/11",
+            "showLabel": "1"
+          },
+          {
+            "label": "4/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/11",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/12",
+            "showLabel": "1"
+          },
+          {
+            "label": "11/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/12",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/13",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/14",
+            "showLabel": "1"
+          },
+          {
+            "label": "6/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/14",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/15",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/15",
+            "showLabel": "1"
+          },
+          {
+            "label": "1/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/16",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/17",
+            "showLabel": "1"
+          },
+          {
+            "label": "8/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/17",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/18",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/19",
+            "showLabel": "1"
+          },
+          {
+            "label": "3/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "9/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "10/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "11/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "12/19",
+            "showLabel": "0"
+          },
+          {
+            "label": "1/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "2/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "3/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "4/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "5/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "6/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "7/20",
+            "showLabel": "0"
+          },
+          {
+            "label": "8/20",
+            "showLabel": "1"
+          }
+        ]
+      }
+    ],
+    "dataset": [
+      {
+          "seriesname": "Capgemini Absolute Return Bond Fund Class Z(Incep. Date: 3.30/2011)",
+        "showPlotBorder": "1",
+        "drawFullAreaBorder": "1",
+        "plotBorderThickness": "3",
+        "data": [
+          {
+            "value": "10011bbb",
+            "toolText": "$10000"
+          },
+          {
+            "value": "9074.66",
+            "toolText": "$90075"
+          },
+          {
+            "value": "10035.7",
+            "toolText": "$10036"
+          },
+          {
+            "value": "10019.07",
+            "toolText": "$10019"
+          },
+          {
+            "value": "10020.17",
+            "toolText": "$10020"
+          },
+          {
+            "value": "9841.4",
+            "toolText": "$9841"
+          },
+          {
+            "value": "9677.14",
+            "toolText": "$9677"
+          },
+          {
+            "value": "9886.13",
+            "toolText": "$9886"
+          },
+          {
+            "value": "9782",
+            "toolText": "$9782"
+          },
+          {
+            "value": "9824.31",
+            "toolText": "$9824"
+          },
+          {
+            "value": "9974.75",
+            "toolText": "$9975"
+          },
+          {
+            "value": "10104.87",
+            "toolText": "$10105"
+          },
+          {
+            "value": "10125.66",
+            "toolText": "$10126"
+          },
+          {
+            "value": "10140.54",
+            "toolText": "$10141"
+          },
+          {
+            "value": "10099.17",
+            "toolText": "$10099"
+          },
+          {
+            "value": "10190.58",
+            "toolText": "$10191"
+          },
+          {
+            "value": "10270.31",
+            "toolText": "$10270"
+          },
+          {
+            "value": "10312.89",
+            "toolText": "$10313"
+          },
+          {
+            "value": "10399.58",
+            "toolText": "$10400"
+          },
+          {
+            "value": "10460.54",
+            "toolText": "$10461"
+          },
+          {
+            "value": "10501.24",
+            "toolText": "$10501"
+          },
+          {
+            "value": "10567.39",
+            "toolText": "$10567"
+          },
+          {
+            "value": "10635.76",
+            "toolText": "$10636"
+          },
+          {
+            "value": "10623.04",
+            "toolText": "$10623"
+          },
+          {
+            "value": "10639.99",
+            "toolText": "$10640"
+          },
+          {
+            "value": "10727.84",
+            "toolText": "$10728"
+          },
+          {
+            "value": "10678.32",
+            "toolText": "$10678"
+          },
+          {
+            "value": "10498.11",
+            "toolText": "$10498"
+          },
+          {
+            "value": "10578.19",
+            "toolText": "$10578"
+          },
+          {
+            "value": "10502.43",
+            "toolText": "$10502"
+          },
+          {
+            "value": "10585.46",
+            "toolText": "$10585"
+          },
+          {
+            "value": "10691.23",
+            "toolText": "$10691"
+          },
+          {
+            "value": "10667.94",
+            "toolText": "$10668"
+          },
+          {
+            "value": "10741.28",
+            "toolText": "$10741"
+          },
+          {
+            "value": "10703.3",
+            "toolText": "$10703"
+          },
+          {
+            "value": "10816.52",
+            "toolText": "$10817"
+          },
+          {
+            "value": "10865.67",
+            "toolText": "$10866"
+          },
+          {
+            "value": "10887.92",
+            "toolText": "$10888"
+          },
+          {
+            "value": "10965.69",
+            "toolText": "$10966"
+          },
+          {
+            "value": "10996.42",
+            "toolText": "$10996"
+          },
+          {
+            "value": "10983.52",
+            "toolText": "$10984"
+          },
+          {
+            "value": "11046.9",
+            "toolText": "$11047"
+          },
+          {
+            "value": "10963.1",
+            "toolText": "$10963"
+          },
+          {
+            "value": "11011.93",
+            "toolText": "$11012"
+          },
+          {
+            "value": "11022.69",
+            "toolText": "$11023"
+          },
+          {
+            "value": "10968.28",
+            "toolText": "$10968"
+          },
+          {
+            "value": "10981.05",
+            "toolText": "$10981"
+          },
+          {
+            "value": "11057.34",
+            "toolText": "$11057"
+          },
+          {
+            "value": "11044.19",
+            "toolText": "$11044"
+          },
+          {
+            "value": "11064.84",
+            "toolText": "$11065"
+          },
+          {
+            "value": "11053.14",
+            "toolText": "$11053"
+          },
+          {
+            "value": "10983.06",
+            "toolText": "$10983"
+          },
+          {
+            "value": "11004.28",
+            "toolText": "$11004"
+          },
+          {
+            "value": "10944.47",
+            "toolText": "$10944"
+          },
+          {
+            "value": "10851.35",
+            "toolText": "$10851"
+          },
+          {
+            "value": "10953.77",
+            "toolText": "$10954"
+          },
+          {
+            "value": "10916.76",
+            "toolText": "$10917"
+          },
+          {
+            "value": "10856.84",
+            "toolText": "$10857"
+          },
+          {
+            "value": "10773.83",
+            "toolText": "$10774"
+          },
+          {
+            "value": "10690.23",
+            "toolText": "$10690"
+          },
+          {
+            "value": "10864.57",
+            "toolText": "$10865"
+          },
+          {
+            "value": "11027.1",
+            "toolText": "$11027"
+          },
+          {
+            "value": "11016.8",
+            "toolText": "$11017"
+          },
+          {
+            "value": "11085.91",
+            "toolText": "$11086"
+          },
+          {
+            "value": "11248.8",
+            "toolText": "$11249"
+          },
+          {
+            "value": "11306.46",
+            "toolText": "$11306"
+          },
+          {
+            "value": "11328.55",
+            "toolText": "$11329"
+          },
+          {
+            "value": "11347.9",
+            "toolText": "$11348"
+          },
+          {
+            "value": "11263.52",
+            "toolText": "$11264"
+          },
+          {
+            "value": "11403.99",
+            "toolText": "$11404"
+          },
+          {
+            "value": "11486.29",
+            "toolText": "$11486"
+          },
+          {
+            "value": "11590.76",
+            "toolText": "$11591"
+          },
+          {
+            "value": "11626.43",
+            "toolText": "$11626"
+          },
+          {
+            "value": "11672.43",
+            "toolText": "$11672"
+          },
+          {
+            "value": "11732.55",
+            "toolText": "$11733"
+          },
+          {
+            "value": "11806.69",
+            "toolText": "$11807"
+          },
+          {
+            "value": "11866.56",
+            "toolText": "$11867"
+          },
+          {
+            "value": "11905.27",
+            "toolText": "$11905"
+          },
+          {
+            "value": "11998.84",
+            "toolText": "$11999"
+          },
+          {
+            "value": "12050.83",
+            "toolText": "$12051"
+          },
+          {
+            "value": "12082.49",
+            "toolText": "$12082"
+          },
+          {
+            "value": "12164.38",
+            "toolText": "$12164"
+          },
+          {
+            "value": "12266.05",
+            "toolText": "$12266"
+          },
+          {
+            "value": "12208.24",
+            "toolText": "$12208"
+          },
+          {
+            "value": "12239.11",
+            "toolText": "$12239"
+          },
+          {
+            "value": "12257.26",
+            "toolText": "$12257"
+          },
+          {
+            "value": "12206.58",
+            "toolText": "$12207"
+          },
+          {
+            "value": "12237.66",
+            "toolText": "$12238"
+          },
+          {
+            "value": "12323.46",
+            "toolText": "$12323"
+          },
+          {
+            "value": "12306.67",
+            "toolText": "$12307"
+          },
+          {
+            "value": "12329.14",
+            "toolText": "$12329"
+          },
+          {
+            "value": "12349.55",
+            "toolText": "$12350"
+          },
+          {
+            "value": "12332.67",
+            "toolText": "$12333"
+          },
+          {
+            "value": "12249.1",
+            "toolText": "$12249"
+          },
+          {
+            "value": "12427.25",
+            "toolText": "$12427"
+          },
+          {
+            "value": "12487.87",
+            "toolText": "$12488"
+          },
+          {
+            "value": "12580.88",
+            "toolText": "$12581"
+          },
+          {
+            "value": "12660.52",
+            "toolText": "$12661"
+          },
+          {
+            "value": "12651.77",
+            "toolText": "$12652"
+          },
+          {
+            "value": "12775.83",
+            "toolText": "$12776"
+          },
+          {
+            "value": "12837.29",
+            "toolText": "$12837"
+          },
+          {
+            "value": "12806.76",
+            "toolText": "$12807"
+          },
+          {
+            "value": "12924.73",
+            "toolText": "$12925"
+          },
+          {
+            "value": "12966.82",
+            "toolText": "$12967"
+          },
+          {
+            "value": "13045.87",
+            "toolText": "$13046"
+          },
+          {
+            "value": "13177.91",
+            "toolText": "$13178"
+          },
+          {
+            "value": "13229.19",
+            "toolText": "$13229"
+          },
+          {
+            "value": "13107.14",
+            "toolText": "$13107"
+          },
+          {
+            "value": "11360.36",
+            "toolText": "$11360"
+          },
+          {
+            "value": "11721.07",
+            "toolText": "$11721"
+          },
+          {
+            "value": "12151.53",
+            "toolText": "$12152"
+          },
+          {
+            "value": "12393.9",
+            "toolText": "$12394"
+          },
+          {
+            "value": "12669.85",
+            "toolText": "$12670"
+          },
+          {
+            "value": "12732.79",
+            "toolText": "$12733"
+          }
+        ]
+      }
+    ],
+    "trendlines": [
+      {
+        "line": [
+          {
+            "valueOnRight": "1",
+            "startValue": "10000",
+            "endValue": "10000",
+            "dashed": "1",
+            "color": "#ffffff",
+            "displayvalue": "",
+            "thickness": "2",
+            "showOnTop": "1"
+          }
+        ]
+      }
+    ]
+  }
+  
